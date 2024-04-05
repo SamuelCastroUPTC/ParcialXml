@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "org.w3c.dom.svg-1.1.0.v201011041433.jar",
+        "PropertiesFilev1.0.0.jar"
+    ]
+}
